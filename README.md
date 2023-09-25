@@ -1,5 +1,13 @@
 
-This is the code for the LiBERTy Model
+This is the code for the LiBERTy Model. If you use this code, please cite our paper:
+@inproceedings {susladkar2023LiBERTy,
+	title            = {{LiBERTy: A Novel Model for Natural Language Understanding}},
+	year             = "2023",
+	author           = "Onkar Susladkar and Gayatri Deshmukh and R Sai Chandra Teja and Sparsh Mittal and Rekha Singhal",
+	booktitle        = "International Conference on AI-ML Systems (AIMLSystems) ",
+	address          = "Bengaluru, India",
+	publisher        = "ACM",
+ }
 
 Basically speaking, BERT and BiLSTM are the two approaches to solving the task. The final result shows that Double Layer BiLSTM is 
 our best choice.
